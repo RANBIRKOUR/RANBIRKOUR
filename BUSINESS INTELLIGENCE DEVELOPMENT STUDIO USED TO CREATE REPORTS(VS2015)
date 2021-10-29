@@ -1,0 +1,52 @@
+
+
+The screenshots given below help to describe creating reports on the Server. The Business Intelligence Development Studio is used to create the reports.
+https://www.ranbirkour.com/post/business-intelligence-development-studio-used-to-create-reports-vs2015
+
+Add Shareddatasource. A data source represents a name and connection to a source of data.
+
+
+Select server name connection.
+
+
+
+Select database AdventureWorks2014 .
+
+
+Test the connection.
+
+
+
+Right click on Reports.
+
+
+Report Wizard.
+
+
+Select the Datasource1 .
+
+
+Click the symbol (add table), select and add the tables required and click close.
+
+
+Select the fields required from the Table, it will form a query. Click OK.
+
+
+Select Employee_1 and EmployeePayHistory (HumanResources) tables. Click on the fields required to display on the end report.
+
+
+
+
+Select report type, followed by clicking next.
+
+
+Group by Rate.
+
+
+Preview of the report.
+
+
+Formatted Preview.
+
+
+
